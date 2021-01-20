@@ -1,4 +1,7 @@
-### 🌼 U ω U
+
+<p align="center">
+  <img width="300" height="300" src="https://i.imgur.com/la69ZAg.gif/300/300"><br><br> 🌼 <b> U ω U </b>
+ </p>
 
 <!--
 **Fasilisleet/Fasilisleet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
